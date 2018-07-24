@@ -1,0 +1,375 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv1.jpg"group-title="蔚蓝触点", CCTV-1综合频道-教育网
+http://iptv.henu.edu.cn/hls/ch9.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv1.jpg"group-title="蔚蓝触点", CCTV-1综合频道-山东联通
+http://sdlqx.chinashadt.com:2036/live/CCTV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv2.jpg"group-title="蔚蓝触点", CCTV-2财经频道-喀什电信
+http://202.107.186.137:5001/nn_live.m3u8?id=cctv2m
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv2.jpg"group-title="蔚蓝触点", CCTV-2财经频道-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227199/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv3.jpg"group-title="蔚蓝触点", CCTV-3综艺频道-山东联通
+http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv4.jpg"group-title="蔚蓝触点", CCTV-4中文国际-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227162/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv5.jpg"group-title="蔚蓝触点", CCTV-5体育频道-湖北移动
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv6.jpg"group-title="蔚蓝触点", CCTV-6电影频道-教育网
+http://iptv.henu.edu.cn/hls/ch2.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv7.jpg"group-title="蔚蓝触点", CCTV-7军事农业频道-宜春移动
+http://117.169.120.209:8080/live/cctv-7/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv7.jpg"group-title="蔚蓝触点", CCTV-7军事农业频道-教育网
+http://iptv.henu.edu.cn/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv9.jpg"group-title="蔚蓝触点", CCTV-9纪录频道-教育网
+http://iptv.henu.edu.cn/hls/ch3.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv10.jpg"group-title="蔚蓝触点", CCTV-10科教频道-教育网
+http://iptv.henu.edu.cn/hls/ch4.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv10.jpg"group-title="蔚蓝触点", CCTV-10科教频道-宜春移动
+http://117.169.120.209:8080/live/cctv-10/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv11.jpg"group-title="蔚蓝触点", CCTV-11戏曲频道-宜春移动
+http://117.169.120.209:8080/live/cctv-11/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv12.jpg"group-title="蔚蓝触点", CCTV-12社会与法频道-宜春移动
+http://117.169.120.209:8080/live/cctv-12/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv12.jpg"group-title="蔚蓝触点", CCTV-12社会与法频道-教育网
+http://iptv.henu.edu.cn/hls/ch6.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv13.jpg"group-title="蔚蓝触点", CCTV-13新闻频道-凤凰网
+http://liveali.ifeng.com/live/CCTV.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv13.jpg"group-title="蔚蓝触点", CCTV-13新闻频道-教育网
+http://iptv.henu.edu.cn/hls/ch5.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv13.jpg"group-title="蔚蓝触点", CCTV-13新闻频道-扬中有线
+http://222.45.214.123:9192/live/hls/5.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv14.jpg"group-title="蔚蓝触点", CCTV-14少儿频道-宜春移动
+http://117.169.120.209:8080/live/cctv-14/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv15.jpg"group-title="蔚蓝触点", CCTV-15音乐频道-宜春移动
+http://117.169.120.209:8080/live/cctv-15/.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctv5plus.jpg"group-title="蔚蓝触点", CCTV-5+体育赛事频道-辽宁移动
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hkstv.jpg"group-title="蔚蓝触点", 香港卫视-官方线路
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhzw.jpg"group-title="蔚蓝触点", 凤凰卫视中文台-石家庄电信
+http://hbzx.chinashadt.com:2036/zhibo/zx2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhzw.jpg"group-title="蔚蓝触点", 凤凰卫视中文台-南京移动
+http://223.110.243.153/PLTV/2510088/224/3221227160/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhzw.jpg"group-title="蔚蓝触点", 凤凰卫视中文台-宜春移动
+http://117.169.120.217:8080/live/fhchinese/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhzx.jpg"group-title="蔚蓝触点", 凤凰卫视资讯台-宜春移动
+http://117.169.120.209:8080/live/fhzixun/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhzx.jpg"group-title="蔚蓝触点", 凤凰卫视资讯台-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227163/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/lotustv.jpg"group-title="蔚蓝触点", 澳门莲花卫视-官方线路
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/mastv.jpg"group-title="蔚蓝触点", 澳亚卫视-官方线路
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hnws.jpg"group-title="蔚蓝触点", 湖南卫视-教育网
+http://iptv.henu.edu.cn/hls/ch8.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hnws.jpg"group-title="蔚蓝触点", 湖南卫视-永州电信
+http://live.hn0746.com/hnws/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hnws.jpg"group-title="蔚蓝触点", 湖南卫视-河北联通
+http://hbsh.chinashadt.com:2036/live/2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wxty.jpg"group-title="蔚蓝触点", 五星体育频道-官方高清
+http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wxty.jpg"group-title="蔚蓝触点", 五星体育频道-官方超清
+http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/kaku.jpg"group-title="蔚蓝触点", 北京卡酷电视台-默认线路
+http://hbmc.chinashadt.com:2739/live/kkse.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jade.jpg"group-title="蔚蓝触点", TVB翡翠台-珠江线路
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jbty.jpg"group-title="蔚蓝触点", 劲爆体育-南京移动
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wxtv.jpg"group-title="蔚蓝触点", 唯心电视台-官方线路
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jkws.jpg"group-title="蔚蓝触点", 健康卫视-官方线路
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/chtv.jpg"group-title="蔚蓝触点", 中华卫视神州台-官方线路
+http://pull.kapad.cn/live/livechtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xwdst.jpg"group-title="蔚蓝触点", 希望电视台-CDN线路
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zjws.jpg"group-title="蔚蓝触点", 浙江卫视-河南移动
+http://hnzc.chinashadt.com:1936/zhibo/6.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zjws.jpg"group-title="蔚蓝触点", 浙江卫视-江西线路
+http://jxsg.chinashadt.com:1936/live/ZJTV.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zjws.jpg"group-title="蔚蓝触点", 浙江卫视-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227190/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jsws.jpg"group-title="蔚蓝触点", 江苏卫视-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227240/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/dfws.jpg"group-title="蔚蓝触点", 上海东方卫视-教育网
+http://iptv.henu.edu.cn/hls/ch7.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdws.jpg"group-title="蔚蓝触点", 广东卫视-GRTN线路
+http://nclive.grtn.cn/gdws/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebws.jpg"group-title="蔚蓝触点", 河北卫视-官方线路
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/adws.jpg"group-title="蔚蓝触点", 青海安多卫视-四川电信
+http://118.122.239.157:1235/hls/hd-live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/nlws.jpg"group-title="蔚蓝触点", 陕西农林卫视-官方线路
+http://stream.snrtv.com/sxtvs-nl.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjws.jpg"group-title="蔚蓝触点", 新疆卫视-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtvs1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvs2.jpg"group-title="蔚蓝触点", 广东南方卫视-GRTN线路
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/btws.jpg"group-title="蔚蓝触点", 新疆兵团卫视-官方线路
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/btws.jpg"group-title="蔚蓝触点", 新疆兵团卫视-南京移动
+http://223.110.243.150/PLTV/2/224/3221226085/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/lyws.jpg"group-title="蔚蓝触点", 海南旅游卫视-官方线路
+http://stream1.hnntv.cn/lyws/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/ssws.jpg"group-title="蔚蓝触点", 海南三沙卫视-官方线路
+http://stream1.hnntv.cn/ssws/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmws.jpg"group-title="蔚蓝触点", 福建厦门卫视-CDN线路
+http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdty.jpg"group-title="蔚蓝触点", 广东体育频道-GRTN线路
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdty.jpg"group-title="蔚蓝触点", 广东体育频道-OTV线路
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel84/2300.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvs5.jpg"group-title="蔚蓝触点", 广东南方少儿频道-GRTN备用
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fhhk.jpg"group-title="蔚蓝触点", 凤凰卫视香港台-南京移动
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/mstv.jpg"group-title="蔚蓝触点", 澳门卫视-官方线路
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/axtv.jpg"group-title="蔚蓝触点", 安溪电视台-官方线路
+http://r.gslb.lecloud.com/live/hls/2018010830000007213/desc.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/qztv1.jpg"group-title="蔚蓝触点", 泉州电视台-1套-官方线路
+http://live.qztvxwgj.com/live/news.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/qztv4.jpg"group-title="蔚蓝触点", 泉州电视台-4套-官方线路
+http://live.qztvxwgj.com/live/mny.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xkws.jpg"group-title="蔚蓝触点", 星空卫视-ZJM线路
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=33
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmtv1.jpg"group-title="蔚蓝触点", 厦门新闻频道-网宿CDN
+http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmtv2.jpg"group-title="蔚蓝触点", 厦门海峡频道-网宿CDN
+http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmtv3.jpg"group-title="蔚蓝触点", 厦门少儿生活频道-网宿CDN
+http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmtv4.jpg"group-title="蔚蓝触点", 厦门影视频道-网宿CDN
+http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xmtv6.jpg"group-title="蔚蓝触点", 厦门移动频道-网宿CDN
+http://cstv.live.wscdns.com/live/xiamenyidong/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/ssstv.jpg"group-title="蔚蓝触点", 石狮电视台-官方线路
+http://218.5.112.180:88/live/dssl/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fztv1.jpg"group-title="蔚蓝触点", 福州新闻综合频道-官方线路
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fztv3.jpg"group-title="蔚蓝触点", 福州生活频道-官方线路
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/fztv4.jpg"group-title="蔚蓝触点", 福州少儿频道-福州明珠
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jjqxpd.jpg"group-title="蔚蓝触点", 晋江侨乡频道-官方线路
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zpstv.jpg"group-title="蔚蓝触点", 漳浦电视台-官方线路
+http://220.161.87.62:8800/hls/0/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jykt.jpg"group-title="蔚蓝触点", 湖南金鹰卡通-南宁移动
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctvdszn.jpg"group-title="蔚蓝触点", CCTV电视指南-南京移动
+http://223.110.243.168/PLTV/2510088/224/3221227337/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctvsjdl.jpg"group-title="蔚蓝触点", CCTV世界地理-南京移动
+http://223.110.243.168/PLTV/2510088/224/3221227341/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sctv10.jpg"group-title="蔚蓝触点", 四川峨眉电影频道-官方线路
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wanzhou.jpg"group-title="蔚蓝触点", 万州电视台-通用线路
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wzsxym.jpg"group-title="蔚蓝触点", 万州三峡移民频道-通用线路
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wzyswy.jpg"group-title="蔚蓝触点", 万州影视文艺频道-官方线路
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/wzkjpd.jpg"group-title="蔚蓝触点", 万州科教频道-通用线路
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cqlpt.jpg"group-title="蔚蓝触点", 梁平电视台-视界网
+http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/bhtv1.jpg"group-title="蔚蓝触点", 滨海新闻综合频道-天津联通
+http://60.30.52.41/live/bhtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/bhtv2.jpg"group-title="蔚蓝触点", 滨海都市频道-天津联通
+http://60.30.52.41/live/bhtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hqdst.jpg"group-title="蔚蓝触点", 环球电视台UTV-官方线路
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jjkt.jpg"group-title="蔚蓝触点", 嘉佳卡通卫视-GRTN线路
+http://nclive.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/ymkt.jpg"group-title="蔚蓝触点", 江苏优漫卡通-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227126/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctvshpd.jpg"group-title="蔚蓝触点", CCTV书画频道-官方线路
+http://112.73.66.59:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/dzcj.jpg"group-title="蔚蓝触点", 点掌财经-官方线路
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jyggpd.jpg"group-title="蔚蓝触点", 揭阳公共频道-官方线路
+http://livejyang.sobeycache.com/live/jy2.m3u8?auth_key=1548401957-0-0-5ccb309e152b190acd863a6e46ae0121
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/jyxwzh.jpg"group-title="蔚蓝触点", 揭阳综合频道-官方线路
+http://livejyang.sobeycache.com/live/jy1.m3u8?auth_key=1548401956-0-0-435dc40bea51e6ffaa278d88a97e76ad
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/chcdzdy.jpg"group-title="蔚蓝触点", CHC动作电影频道-河北线路
+http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/chcdzdy.jpg"group-title="蔚蓝触点", CHC动作电影频道-河北电信
+http://hbly.chinashadt.com:2046/live/1004.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdzjpd.jpg"group-title="蔚蓝触点", 广东珠江频道-GRTN线路
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdggpd.jpg"group-title="蔚蓝触点", 广东公共频道-GRTN备用
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdxwpd.jpg"group-title="蔚蓝触点", 广东新闻频道-GRTN线路
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdgjpd.jpg"group-title="蔚蓝触点", 广东国际频道-GRTN线路
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdhzpd.jpg"group-title="蔚蓝触点", 广东汽车会展频道-GRTN线路
+http://nclive.grtn.cn/qchzpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvs1.jpg"group-title="蔚蓝触点", 广东南方经视频道-GRTN线路
+http://nclive.grtn.cn/tvs1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvs4.jpg"group-title="蔚蓝触点", 广东南方影视频道-GRTN线路
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/onetv.jpg"group-title="蔚蓝触点", 亚太第一卫视-官方线路
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sztyjk.jpg"group-title="蔚蓝触点", 深圳体育健康频道-OTV线路
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel83/2300.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/pearl.jpg"group-title="蔚蓝触点", TVB明珠台-ZJM线路
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/viutv.jpg"group-title="蔚蓝触点", ViuTV-临时线路
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/dgtv1.jpg"group-title="蔚蓝触点", 东莞电视台1套-官方线路
+http://mtv.sun0769.com/dgrtv1/mp4:tv1/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/channel8.jpg"group-title="蔚蓝触点", 新传媒8频道-官方线路
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/channelu.jpg"group-title="蔚蓝触点", 新传媒U频道-官方线路
+http://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/channel5.jpg"group-title="蔚蓝触点", 新传媒5频道-官方线路
+http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tcctv.jpg"group-title="蔚蓝触点", 泰国中文电视台-官方线路
+http://live-02.aih-inc.com/tcitv/tcitv_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctvgefwq.jpg"group-title="蔚蓝触点", CCTV高尔夫网球-南京移动
+http://223.110.243.142/PLTV/2510088/224/3221227347/1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cetv1.jpg"group-title="蔚蓝触点", 中国教育电视台1套-官方线路
+http://liveyun.centv.cn/live/cetv1.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cetv2.jpg"group-title="蔚蓝触点", 中国教育电视台2套-官方线路
+http://liveyun.centv.cn/live/cetv2.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cetv3.jpg"group-title="蔚蓝触点", 中国教育电视台3套-官方线路
+http://liveyun.centv.cn/live/cetv3.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cetv4.jpg"group-title="蔚蓝触点", 中国教育电视台4套-官方线路
+http://liveyun.centv.cn/live/cetv4.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/cctbn.jpg"group-title="蔚蓝触点", 中国交通频道-官方线路
+http://tv.cctbn.com/zgjt/beijing.m3u8?auth_key=1701185783-0-0-e36f09598d451ea4440bbd83411e7fd5
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/nexttv.jpg"group-title="蔚蓝触点", 壹电视新闻台-官方线路
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/qilu.jpg"group-title="蔚蓝触点", 山东齐鲁频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/qlpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/qilu.jpg"group-title="蔚蓝触点", 山东齐鲁频道-山东电信
+http://sdlq.chinashadt.com:2036/live/sdql.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdty.jpg"group-title="蔚蓝触点", 山东体育频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/typd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdsh.jpg"group-title="蔚蓝触点", 山东生活频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/shpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdzy.jpg"group-title="蔚蓝触点", 山东综艺频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/zypd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdgg.jpg"group-title="蔚蓝触点", 山东公共频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/ggpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdnk.jpg"group-title="蔚蓝触点", 山东农科频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/nkpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdys.jpg"group-title="蔚蓝触点", 山东影视频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/yspd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdse.jpg"group-title="蔚蓝触点", 山东少儿频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/sepd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdgj.jpg"group-title="蔚蓝触点", 山东国际频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/gjpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdjjgw.jpg"group-title="蔚蓝触点", 山东居家购物频道-齐鲁网
+http://ksdlive.gwpd.iqilu.com/gwpd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/sdetv.jpg"group-title="蔚蓝触点", 山东教育卫视-官方线路
+http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hntvly.jpg"group-title="蔚蓝触点", 河南梨园频道-郑州移动
+http://117.158.206.60:9080/live/lypd.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hntvws.jpg"group-title="蔚蓝触点", 河南武术世界频道-郑州移动
+http://117.158.206.60:9080/live/wssj.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hntvww.jpg"group-title="蔚蓝触点", 河南文物宝库频道-郑州移动
+http://117.158.206.60:9080/live/wwbk.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hntv11.jpg"group-title="蔚蓝触点", 河南晴彩中原频道-郑州移动
+http://117.158.206.60:9080/live/live30_tzwj_500k.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv2.jpg"group-title="蔚蓝触点", 新疆维语卫视频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv2.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv3.jpg"group-title="蔚蓝触点", 新疆哈语卫视频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv3.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv4.jpg"group-title="蔚蓝触点", 新疆汉语综艺频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv4.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv5.jpg"group-title="蔚蓝触点", 新疆维语综艺频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv5.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv7.jpg"group-title="蔚蓝触点", 新疆汉语经济频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv7.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv8.jpg"group-title="蔚蓝触点", 新疆哈语综艺频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv8.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv9.jpg"group-title="蔚蓝触点", 新疆维语经济频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv9.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv10.jpg"group-title="蔚蓝触点", 新疆体育健康频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv10.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv11.jpg"group-title="蔚蓝触点", 新疆法制信息频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv11.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xjtv12.jpg"group-title="蔚蓝触点", 新疆新疆少儿频道-虎鱼网
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv12.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/lngg.jpg"group-title="蔚蓝触点", 辽宁公共频道-沈阳线路
+http://lms.csytv.com/Live/124/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtv2.jpg"group-title="蔚蓝触点", 河北经视频道-官方线路
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtv3.jpg"group-title="蔚蓝触点", 河北都市频道-官方线路
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtv4.jpg"group-title="蔚蓝触点", 河北影视频道-官方线路
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtv5.jpg"group-title="蔚蓝触点", 河北少儿频道-官方线路
+http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtv6.jpg"group-title="蔚蓝触点", 河北公共频道-官方线路
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebtvnm.jpg"group-title="蔚蓝触点", 河北农民频道-官方线路
+http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/hebgw.jpg"group-title="蔚蓝触点", 三佳购物频道-官方线路
+http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatv1.jpg"group-title="蔚蓝触点", 西安新闻综合频道-官方线路
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatv2.jpg"group-title="蔚蓝触点", 西安都市频道-官方线路
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatv3.jpg"group-title="蔚蓝触点", 西安商务资讯频道-官方线路
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatv4.jpg"group-title="蔚蓝触点", 西安文化影视频道-官方线路
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatv5.jpg"group-title="蔚蓝触点", 西安购物频道-官方线路
+http://stream2.xiancity.cn/xatv6/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/xatvsl.jpg"group-title="蔚蓝触点", 西安丝路频道-官方线路
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvbfinance.jpg"group-title="蔚蓝触点", 无线财经台-官方线路
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/tvbenews.jpg"group-title="蔚蓝触点", TVB娱乐新闻台-海外线路
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpdy.jpg"group-title="蔚蓝触点", NewTV精品电影-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvaqxj.jpg"group-title="蔚蓝触点", NewTV爱情喜剧-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjsxy.jpg"group-title="蔚蓝触点", NewTV惊悚悬疑-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjtjc.jpg"group-title="蔚蓝触点", NewTV家庭剧场-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvhwjc.jpg"group-title="蔚蓝触点", NewTV海外剧场-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvdhwg.jpg"group-title="蔚蓝触点", NewTV动画王国-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvmxdp.jpg"group-title="蔚蓝触点", NewTV明星大片-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvzggf.jpg"group-title="蔚蓝触点", NewTV中国功夫-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221226935/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpzy.jpg"group-title="蔚蓝触点", NewTV金牌综艺-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpty.jpg"group-title="蔚蓝触点", NewTV精品体育-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvbj.jpg"group-title="蔚蓝触点", NewTV搏击频道-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221226656/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvdzdy.jpg"group-title="蔚蓝触点", NewTV动作电影-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvgzjc.jpg"group-title="蔚蓝触点", NewTV古装剧场-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjljc.jpg"group-title="蔚蓝触点", NewTV军旅剧场-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225531/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjspl.jpg"group-title="蔚蓝触点", NewTV军事评论-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpjl.jpg"group-title="蔚蓝触点", NewTV精品纪录-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvnyzf.jpg"group-title="蔚蓝触点", NewTV农业致富-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225537/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjkyy.jpg"group-title="蔚蓝触点", NewTV健康有约-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvcmlp.jpg"group-title="蔚蓝触点", NewTV潮妈辣婆-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221226983/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpdj.jpg"group-title="蔚蓝触点", NewTV精品大剧-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvwmyx.jpg"group-title="蔚蓝触点", NewTV完美游戏-南京移动
+http://223.110.243.155:80/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zhxwpd.jpg"group-title="蔚蓝触点", 珠海新闻频道-官方高清
+http://hlslive.n21.cc/uHiS6o7/1500/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zhxwpd.jpg"group-title="蔚蓝触点", 珠海新闻频道-官方标清
+http://hlslive.n21.cc/uHiS6o7/500/live.m3u8
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/zhggpd.jpg"group-title="蔚蓝触点", 珠海公共频道-官方标清
+http://hlslive.n21.cc/tm0Or7U/500/live.m3u8

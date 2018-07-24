@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,极K影视
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
 #EXTINF:-1,极K精选
@@ -247,3 +247,9 @@ http://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
 http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8
 #EXTINF:-1,壹电视新闻台
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1,凤凰卫视资讯台
+http://117.169.120.209:8080/live/fhzixun/1.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://117.169.120.217:8080/live/fhchinese/1.m3u8
+#EXTINF:-1,凤凰卫视香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
