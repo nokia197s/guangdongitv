@@ -11,6 +11,11 @@ rtsp://183.59.144.18/PLTV/88888905/224/3221228307/100001000000000600000000081891
 rtsp://183.59.144.18/PLTV/88888905/224/3221228179/10000100000000060000000008189131_0.smil
 #EXTINF:-1,无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://223.110.243.146/PLTV/3/224/3221226922/index.m3u8?icpid=88888888&from=0&hms_devid=2684,2724
+#EXTINF:-1,奇妙电视77
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
 #EXTINF:-1,粤荟萃
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil
 #EXTINF:-1,广东珠江
