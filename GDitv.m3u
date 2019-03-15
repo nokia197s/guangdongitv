@@ -17,20 +17,22 @@ rtsp://183.59.144.18:554/PLTV/88888905/224/3221228304/10000100000000060000000008
 rtsp://183.59.144.18/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
 #EXTINF:-1 ,精选4k频道1
 rtsp://183.59.144.18/PLTV/88888905/224/3221228307/10000100000000060000000008189136_0.smil
-#EXTINF:-1 ,廣州綜合FHD
-http://23436.liveplay.myqcloud.com/live/23436_dc2089877e7111e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州競賽FHD
-http://23436.liveplay.myqcloud.com/live/23436_e821bfc784b111e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州影視FHD
-http://23436.liveplay.myqcloud.com/live/23436_8a1764ff84b211e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州新聞FHD
-http://23436.liveplay.myqcloud.com/live/23436_e2fd8e1e7e7111e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州經濟FHD
-http://23436.liveplay.myqcloud.com/live/23436_9a1e9e7a84b211e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州生活FHD
-http://23436.liveplay.myqcloud.com/live/23436_5fe853ef84b211e892905cb9018cf0d4.m3u8
-#EXTINF:-1 ,廣州少兒FHD
-http://23436.liveplay.myqcloud.com/live/23436_b2eb109d84b211e892905cb9018cf0d4.m3u8
+#EXTINF:-1 ,广州综合
+http://play.gztv.com/live/23436_dc2089877e7111e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州新闻
+http://play.gztv.com/live/23436_e2fd8e1e7e7111e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州竞赛
+http://play.gztv.com/live/23436_e821bfc784b111e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州影视
+http://play.gztv.com/live/23436_8a1764ff84b211e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州经济
+http://play.gztv.com/live/23436_9a1e9e7a84b211e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州生活
+http://play.gztv.com/live/23436_5fe853ef84b211e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州少儿
+http://play.gztv.com/live/23436_b2eb109d84b211e892905cb9018cf0d4.flv
+#EXTINF:-1 ,广州购物
+http://play.gztv.com/live/23436_741b268384b211e892905cb9018cf0d4.flv
 #EXTINF:-1,奇妙电视77
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,全纪实HD
