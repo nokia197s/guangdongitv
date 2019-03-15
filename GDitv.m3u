@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="TVML Featured Videos",广东综艺4k
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",广东综艺4k
 rtsp://183.59.144.18/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdzjpd.jpg" group-title="TVML Featured Videos",珠江超清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdzjpd.jpg" group-title="广东电视",珠江超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221229854/10000100000000060000000009467088_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdws.jpg" group-title="TVML Featured Videos",广东卫视超清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdws.jpg" group-title="广东电视",广东卫视超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221227768/10000100000000060000000005076861_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/tvs1.jpg" group-title="TVML Featured Videos",广东经济科教超清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/tvs1.jpg" group-title="广东电视",广东经济科教超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221227811/10000100000000060000000005076860_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdty.jpg" group-title="TVML Featured Videos",广东体育超清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdty.jpg" group-title="广东电视",广东体育超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
 #EXTINF:-1,极K影视
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
