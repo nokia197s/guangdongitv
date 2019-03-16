@@ -9,13 +9,13 @@ rtsp://183.59.144.18/PLTV/88888905/224/3221227768/100001000000000600000000050768
 rtsp://183.59.144.18/PLTV/88888905/224/3221227811/10000100000000060000000005076860_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdty.jpg" group-title="广东电视",广东体育超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",极K影视
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/ytvjkys.jpg" group-title="广东电视",极K影视
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",极K精选
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/ytvjkjx.jpg" group-title="广东电视",极K精选
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",4K轮播频道2
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/as4k.jpg" group-title="广东电视",4K轮播频道2
 rtsp://183.59.144.18/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",精选4k频道1
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/ytv4k.jpg" group-title="广东电视",精选4k频道1
 rtsp://183.59.144.18/PLTV/88888905/224/3221228307/10000100000000060000000008189136_0.smil
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdxwpd.jpg" group-title="广东电视",广东新闻
