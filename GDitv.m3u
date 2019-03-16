@@ -32,26 +32,8 @@ rtsp://183.59.144.18:554/PLTV/88888905/224/3221226937/00000100000000060000000000
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/jjkt.jpg" group-title="广东电视",嘉佳卡通
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",南方购物
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227224/10000100000000060000000000990026_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",珠江电影
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228082/10000100000000060000000007057113_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",邮轮旅游
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227925/10000100000000060000000006388227_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",南方购物
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227200/10000100000000060000000000987154_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",岭南戏曲
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",房产
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",现代教育
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",快乐宠物
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221229775/10000100000000060000000009130795_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",移动
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227209/10000100000000060000000000987164_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",英语辅导
-rtsp://183.59.144.18:554/PLTV/88888905/224/3221227236/10000100000000060000000000990116_0.smil
 #EXTINF:-1,奇妙电视77
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/qjs.jpg" group-title="东方文广",全纪实HD
@@ -62,23 +44,25 @@ rtsp://183.59.144.18/PLTV/88888888/224/3221227526/100001000000000600000000040318
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227613/10000100000000060000000004490594_0.smil
 #EXTINF:-1,金鹰纪实高清
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227916/10000100000000060000000006078790_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/hxjc.jpg" group-title="东方文广",欢笑剧场HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/hxjc.jpg" group-title="上海文广",欢笑剧场HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227791/10000100000000060000000004937876_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/dsjc.jpg" group-title="东方文广",都市剧场HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/dsjc.jpg" group-title="上海文广",都市剧场HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227790/10000100000000060000000004937871_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/dmsc.jpg" group-title="东方文广",动漫秀场HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/dmsc.jpg" group-title="上海文广",动漫秀场HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227788/10000100000000060000000004937873_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/sssh.jpg" group-title="东方文广",生活时尚HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/sssh.jpg" group-title="上海文广",生活时尚HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227747/10000100000000060000000004937872_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/xfc.jpg" group-title="东方文广",幸福彩HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/xfc.jpg" group-title="上海文广",幸福彩HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227793/10000100000000060000000004937874_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/yxfy.jpg" group-title="东方文广",游戏风云HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/yxfy.jpg" group-title="上海文广",游戏风云HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227794/10000100000000060000000004940629_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/mlyy.jpg" group-title="东方文广",魅力音乐HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/mlyy.jpg" group-title="上海文广",魅力音乐HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227796/10000100000000060000000004937877_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/jbty.jpg" group-title="东方文广",劲爆体育HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/jbty.jpg" group-title="上海文广",劲爆体育HD
 rtsp://183.59.144.18/PLTV/88888888/224/0/3221225951/iptv97709.smil
-#EXTINF:-1 ,陶瓷HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/Knews24.jpg" group-title="上海文广",Knews24-HD
+rtsp://183.59.144.18/PLTV/88888888/224/3221226527/00000100000000060000000000018578_0.smil
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/tc.jpg" group-title="上海文广",陶瓷HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221228258/10000100000000060000000007681646_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/hnws.jpg" group-title="卫视",湖南卫视超清
 rtsp://183.59.144.18/PLTV/88888905/224/3221227581/10000100000000060000000004462928_0.smil
@@ -134,11 +118,7 @@ rtsp://183.59.144.18:554/PLTV/88888905/224/3221227576/10000100000000060000000004
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227573/10000100000000060000000004662499_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/cctv1.jpg" group-title="卫视",黑龙江卫视高清
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil
-#EXTINF:-1 ,Knews24-HD
-rtsp://183.59.144.18/PLTV/88888888/224/3221226527/00000100000000060000000000018578_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/cetv1.jpg" group-title="教育",CETV1高清
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228289/10000100000000060000000007781467_0.smil
-#EXTINF:-1,广东综艺(4k)
-rtsp://183.59.144.18/PLTV/88888905/224/3221229717/10000100000000060000000008643415_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",粤荟萃
+
 
