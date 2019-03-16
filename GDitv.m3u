@@ -34,15 +34,15 @@ rtsp://183.59.144.18:554/PLTV/88888905/224/3221226989/00000100000000060000000000
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",珠江电影
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228082/10000100000000060000000007057113_0.smil
-#EXTINF:-1,奇妙电视77
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/opentv.jpg" group-title="境外",opentv
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/qjs.jpg" group-title="东方文广",全纪实HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/qjs.jpg" group-title="上海文广",全纪实HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227750/10000100000000060000000004937875_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/js.jpg" group-title="东方文广",纪实频道HD
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/js.jpg" group-title="上海文广",纪实频道HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227526/10000100000000060000000004031806_0.smil
-#EXTINF:-1,北京纪实高清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/bjjs.jpg" group-title="上海文广",北京纪实高清
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227613/10000100000000060000000004490594_0.smil
-#EXTINF:-1,金鹰纪实高清
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/jyjs.jpg" group-title="上海文广",金鹰纪实高清
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227916/10000100000000060000000006078790_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/hxjc.jpg" group-title="上海文广",欢笑剧场HD
 rtsp://183.59.144.18/PLTV/88888888/224/3221227791/10000100000000060000000004937876_0.smil
