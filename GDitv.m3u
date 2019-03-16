@@ -26,13 +26,13 @@ rtsp://183.59.144.18:554/PLTV/88888905/224/3221226931/00000100000000060000000000
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/tvs2.jpg" group-title="广东电视",TVS2广东南方卫视
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226975/00000100000000060000000000554907_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdyspd.jpg" group-title="广东电视",广东影视
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gdys.jpg" group-title="广东电视",广东影视
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/tvs5.jpg" group-title="广东电视",TVS5广东少儿
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/jjkt.jpg" group-title="广东电视",嘉佳卡通
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
-#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/gd4k.jpg" group-title="广东电视",珠江电影
+#EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/zjdy.jpg" group-title="广东电视",珠江电影
 rtsp://183.59.144.18:554/PLTV/88888905/224/3221228082/10000100000000060000000007057113_0.smil
 #EXTINF:-1 tvg-logo="http://192.168.1.10:5200/web_images/logo/opentv.jpg" group-title="境外",opentv
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
