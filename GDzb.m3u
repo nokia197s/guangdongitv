@@ -1,4 +1,4 @@
-#EXTM3U url-logos=""http://192.168.1.10:5200/web_images/logo/"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="CCTV央视蓝光频道",广东综艺 宽色域(4k)
 http://192.168.1.67:8009/rtp/239.77.0.246:5146
@@ -18,7 +18,7 @@ http://192.168.1.67:8009/rtp/239.77.0.168:5146
 #EXTINF:-1 ,广东珠江超清
 http://192.168.1.67:8009/rtp/239.77.0.114:5146
 
-#EXTINF:-1 tvg-id="cctv-3" tvg-logo="cctv3.jpg" group-title="CCTV央视蓝光频道",CCTV-3超清测试
+#EXTINF:-1 tvg-id="cctv-3" tvg-logo="http://192.168.1.10:5200/web_images/logo/cctv3.jpg" group-title="CCTV央视蓝光频道",CCTV-3超清测试
 http://192.168.1.67:8009/rtp/239.77.0.175:5146
 #EXTINF:-1 ,CCTV-5超清测试
 http://192.168.1.67:8009/rtp/239.77.0.177:5146
