@@ -1,4 +1,5 @@
-#EXTM3U url-logos="http://192.168.1.10:5200/web_images/logo/"
+#EXTM3U url-logos=""http://192.168.1.10:5200/web_images/logo/"
+
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="CCTV央视蓝光频道",广东综艺 宽色域(4k)
 http://192.168.1.67:8009/rtp/239.77.0.246:5146
 #EXTINF:-1 ,爱上4K
