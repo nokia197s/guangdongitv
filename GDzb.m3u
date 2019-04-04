@@ -27,10 +27,10 @@ http://192.168.1.67:8009/rtp/239.77.0.178:5146
 #EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://192.168.1.10:5200/web_images/logo/cctv8.jpg" group-title="蓝光频道",CCTV-8超清
 http://192.168.1.67:8009/rtp/239.77.0.181:5146
 
-#EXTINF:-1 ,湖南卫视超清
+#EXTINF:-1 tvg-id="hunandianshitai-hnws" tvg-logo="http://192.168.1.10:5200/web_images/logo/hnws.jpg" group-title="蓝光频道",湖南卫视超清
 http://192.168.1.67:8009/rtp/239.77.0.127:5146
 
-#EXTINF:-1 ,深圳卫视超清
+#EXTINF:-1 tvg-id="szws" tvg-logo="http://192.168.1.10:5200/web_images/logo/szws.jpg" group-title="蓝光频道",深圳卫视超清
 http://192.168.1.67:8009/rtp/239.77.0.130:5146
 #EXTINF:-1 ,黑龙江卫视超清
 http://192.168.1.67:8009/rtp/239.77.0.124:5146
