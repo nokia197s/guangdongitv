@@ -4,18 +4,18 @@
 http://192.168.1.67:8009/rtp/239.77.0.246:5146
 #EXTINF:-1 tvg-id=" " tvg-logo="as4k.jpg" group-title="广东蓝光频道",爱上4K
 http://192.168.1.67:8009/rtp/239.253.43.219:5146
-#EXTINF:-1 tvg-id=" " tvg-logo="ytvjkys.jpg" group-title="广东蓝光频道",极k影视-测试
+#EXTINF:-1 tvg-id=" " tvg-logo="ytvjkys.jpg" group-title="蓝光频道",极k影视-测试
 http://192.168.1.67:8009/rtp/239.253.43.218:5146
-#EXTINF:-1 tvg-id=" " tvg-logo="ytvjkjx.jpg" group-title="广东蓝光频道",极K精选-测试
+#EXTINF:-1 tvg-id=" " tvg-logo="ytvjkjx.jpg" group-title="蓝光频道",极K精选-测试
 http://192.168.1.67:8009/rtp/239.77.0.231:5146
 
-#EXTINF:-1 tvg-id="gdws" tvg-logo="gdws.jpg" group-title="广东蓝光频道",广东卫视超清
+#EXTINF:-1 tvg-id="gdws" tvg-logo="gdws.jpg" group-title="蓝光频道",广东卫视超清
 http://192.168.1.67:8009/rtp/239.77.0.166:5146
-#EXTINF:-1 tvg-id="tvs-1" tvg-logo="tvs-1.jpg" group-title="广东蓝光频道",广东经济科教超清
+#EXTINF:-1 tvg-id="tvs-1" tvg-logo="tvs-1.jpg" group-title="蓝光频道",广东经济科教超清
 http://192.168.1.67:8009/rtp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="GDTY" tvg-logo="gdty.jpg" group-title="广东蓝光频道",广东体育超清
+#EXTINF:-1 tvg-id="GDTY" tvg-logo="gdty.jpg" group-title="蓝光频道",广东体育超清
 http://192.168.1.67:8009/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="zjws" tvg-logo="gdzjpd.jpg" group-title="广东蓝光频道",广东珠江超清
+#EXTINF:-1 tvg-id="zjws" tvg-logo="gdzjpd.jpg" group-title="蓝光频道",广东珠江超清
 http://192.168.1.67:8009/rtp/239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="cctv-3" tvg-logo="http://192.168.1.10:5200/web_images/logo/cctv3.jpg" group-title="蓝光频道",CCTV-3超清
