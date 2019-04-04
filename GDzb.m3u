@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="guangdongzongyi4k" tvg-logo="gd4k.jpg" group-title="蓝光频道",广东综艺 宽色域(4k)
 http://192.168.1.67:8009/rtp/239.77.0.246:5146
-#EXTINF:-1 tvg-id=" " tvg-logo="as4k.jpg" group-title="广东蓝光频道",爱上4K
+#EXTINF:-1 tvg-id=" " tvg-logo="as4k.jpg" group-title="蓝光频道",爱上4K
 http://192.168.1.67:8009/rtp/239.253.43.219:5146
 #EXTINF:-1 tvg-id=" " tvg-logo="ytvjkys.jpg" group-title="蓝光频道",极k影视-测试
 http://192.168.1.67:8009/rtp/239.253.43.218:5146
