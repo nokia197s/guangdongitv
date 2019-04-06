@@ -16,7 +16,7 @@ http://192.168.1.67:8009/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="GDTY" tvg-logo="gdty.jpg" group-title="蓝光频道",广东体育超清
 http://192.168.1.67:8009/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="zjws" tvg-logo="gdzjpd.jpg" group-title="蓝光频道",广东珠江超清
-http://192.168.1.67:8009/rtp/239.77.0.114:5146
+rtp://239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="cctv-3" tvg-logo="http://192.168.1.10:5200/web_images/logo/cctv3.jpg" group-title="蓝光频道",CCTV-3超清
 http://192.168.1.67:8009/rtp/239.77.0.175:5146
